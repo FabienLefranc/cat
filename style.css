@@ -25,3 +25,9 @@ h1 {
     width: 400px;
     height: auto;
 }
+@media screen and (max-width: 420px){
+    #img {
+        width: 300px;
+        margin: 20px;
+    }
+}
